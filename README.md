@@ -16,7 +16,7 @@ Key Features:
 - Visualizations for cluster quality and insights
 
 
----
+
 
 ##  Dataset
 
@@ -25,14 +25,14 @@ Key Features:
 - **Target Features for Clustering**:
   - `review_length`, `word_count`, `is_helpful`, `rating_deviation`, `engagement_score`, etc.
 
----
 
-## 🧠 Methods Used
+
+##  Methods Used
 
 - **Language**: Python
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `nltk`, `textblob`
 
-### ✅ Workflow:
+###  Workflow:
 
 1. **Data Cleaning** (`data_clearing.ipynb`)
    - Handle missing values
@@ -53,7 +53,7 @@ Key Features:
    - Visualize with bar charts, scatterplots, and heatmaps
    - Recommend tailored strategies (advocacy, retention, engagement)
 
----
+
 
 ## Sample Insights
 
@@ -61,7 +61,7 @@ Key Features:
 - **Cluster 4**: Long, detailed reviews with low ratings — critical, high-engagement users
 - **Cluster 7**: Highly helpful reviews with high ratings — potential brand advocates
 
----
+
 
 ## Results
 
@@ -71,7 +71,7 @@ Key Features:
 | Silhouette Score     | 0.398     |
 | CH Index             | 283.66    |
 
----
+
 
 ## Marketing Applications
 
@@ -79,8 +79,8 @@ Key Features:
 - **Advocacy Campaigns** for helpful, high-rating users
 - **Re-engagement Tactics** for low-engagement but loyal reviewers
 
----
 
-## Getting Started
+
+
 
 
